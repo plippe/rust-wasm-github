@@ -209,7 +209,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-wasm-github-pages"
+name = "rust-wasm-github"
 version = "0.1.0"
 dependencies = [
  "yew",
